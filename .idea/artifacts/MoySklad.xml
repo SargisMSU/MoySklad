@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MoySklad">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoySklad</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="" />
+        <option name="height" value="675" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="MoySklad" />
+        <option name="vendor" value="Sargis" />
+        <option name="version" value="1.0" />
+        <option name="width" value="900" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="MoySklad.jar">
+        <element id="module-output" name="MoySklad" />
+      </element>
+      <element id="library" level="project" name="com.google.code.gson:gson:2.8.5" />
+      <element id="library" level="project" name="org.apache.httpcomponents:httpclient:4.5.6" />
+      <element id="library" level="project" name="org.apache.poi:poi:3.14" />
+    </root>
+  </artifact>
+</component>
